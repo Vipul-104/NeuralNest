@@ -1,4 +1,4 @@
-# 🧠 NeuralNest — Your Personal Knowledge Graph
+# 🧠 NeuralNest - Your Personal Knowledge Graph
 
 > Feed it your notes, voice memos, podcasts, and WhatsApp chats. Ask it anything. It answers from *your* brain — not the internet.
 
@@ -180,7 +180,7 @@ Switch to graph view to see your entire knowledge map — every concept you've e
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
 
 ---
 
