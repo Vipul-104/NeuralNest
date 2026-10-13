@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 What is MemoryOS?
+## 🚀 What is NeuralNest?
 
-MemoryOS is a **multimodal personal knowledge graph engine** that ingests everything you learn — gym notes, podcast insights, study material, WhatsApp conversations — and builds a living, queryable graph of your knowledge.
+NeuralNest is a **multimodal personal knowledge graph engine** that ingests everything you learn — gym notes, podcast insights, study material, WhatsApp conversations — and builds a living, queryable graph of your knowledge.
 
-Unlike ChatGPT or Notion AI, MemoryOS only answers from **your own data**. It knows what *you* know, not what the internet knows.
+Unlike ChatGPT or Notion AI, NeuralNest only answers from **your own data**. It knows what *you* know, not what the internet knows.
 
 **Ask it:**
 - *"Progressive overload ke baare mein mujhe kya pata hai?"*
@@ -51,7 +51,7 @@ It finds cross-domain connections you'd never notice manually — your gym notes
 ## 📁 Project Structure
 
 ```
-memoryos/
+NeuralNest/
 ├── app.py                  # Streamlit UI — main entry point
 ├── ingest.py               # Input pipeline (audio/text/URL/WhatsApp → raw text)
 ├── extractor.py            # NLP → concept nodes + relationship edges
