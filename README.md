@@ -1,4 +1,4 @@
-# 🧠 MemoryOS — Your Personal Knowledge Graph
+# 🧠 NeuralNest — Your Personal Knowledge Graph
 
 > Feed it your notes, voice memos, podcasts, and WhatsApp chats. Ask it anything. It answers from *your* brain — not the internet.
 
@@ -188,7 +188,7 @@ MIT License — free to use, modify, and distribute.
 
 Built by **Vipul Barmukh** — Final year engineering student passionate about AI/ML, NLP, and building products that solve real problems.
 
-- GitHub: [@Vipul-104](https://github.com/Vipul-104))
+- GitHub: [@Vipul-104](https://github.com/Vipul-104)
 - LinkedIn: [Vipul Barmukh](https://linkedin.com/in/vipul-barmukh-b44aa9311)
 
 ---
