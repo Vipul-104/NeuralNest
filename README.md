@@ -186,10 +186,10 @@ MIT License — free to use, modify, and distribute.
 
 ## 🙋‍♂️ Author
 
-Built by **[Your Name]** — Final year engineering student passionate about AI/ML, NLP, and building products that solve real problems.
+Built by **Vipul Barmukh** — Final year engineering student passionate about AI/ML, NLP, and building products that solve real problems.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@Vipul-104](https://github.com/Vipul-104))
+- LinkedIn: [Vipul Barmukh](https://linkedin.com/in/vipul-barmukh-b44aa9311)
 
 ---
 
