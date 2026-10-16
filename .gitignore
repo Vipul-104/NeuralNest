@@ -1,8 +1,10 @@
 .venv/
+venv/
 .env
 data/graph.pkl
 data/raw/
 __pycache__/
 *.pyc
 *.pkl
+test1.py
 notepad .gitignore
