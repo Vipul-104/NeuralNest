@@ -1,4 +1,4 @@
-# 🧠 MemoryOS — Your Personal Knowledge Graph
+# 🧠 NeuralNest - Your Personal Knowledge Graph
 
 > Feed it your notes, voice memos, podcasts, and WhatsApp chats. Ask it anything. It answers from *your* brain — not the internet.
 
@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 What is MemoryOS?
+## 🚀 What is NeuralNest?
 
-MemoryOS is a **multimodal personal knowledge graph engine** that ingests everything you learn — gym notes, podcast insights, study material, WhatsApp conversations — and builds a living, queryable graph of your knowledge.
+NeuralNest is a **multimodal personal knowledge graph engine** that ingests everything you learn — gym notes, podcast insights, study material, WhatsApp conversations — and builds a living, queryable graph of your knowledge.
 
-Unlike ChatGPT or Notion AI, MemoryOS only answers from **your own data**. It knows what *you* know, not what the internet knows.
+Unlike ChatGPT or Notion AI, NeuralNest only answers from **your own data**. It knows what *you* know, not what the internet knows.
 
 **Ask it:**
 - *"Progressive overload ke baare mein mujhe kya pata hai?"*
@@ -51,7 +51,7 @@ It finds cross-domain connections you'd never notice manually — your gym notes
 ## 📁 Project Structure
 
 ```
-memoryos/
+NeuralNest/
 ├── app.py                  # Streamlit UI — main entry point
 ├── ingest.py               # Input pipeline (audio/text/URL/WhatsApp → raw text)
 ├── extractor.py            # NLP → concept nodes + relationship edges
@@ -180,16 +180,16 @@ Switch to graph view to see your entire knowledge map — every concept you've e
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
 
 ---
 
 ## 🙋‍♂️ Author
 
-Built by **[Your Name]** — Final year engineering student passionate about AI/ML, NLP, and building products that solve real problems.
+Built by **Vipul Barmukh** — Final year engineering student passionate about AI/ML, NLP, and building products that solve real problems.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@Vipul-104](https://github.com/Vipul-104)
+- LinkedIn: [Vipul Barmukh](https://linkedin.com/in/vipul-barmukh-b44aa9311)
 
 ---
 
