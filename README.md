@@ -166,7 +166,7 @@ Switch to graph view to see your entire knowledge map — every concept you've e
 
 ## 🤔 How is this different from ChatGPT / Notion AI?
 
-| Feature | MemoryOS | ChatGPT / Notion AI |
+| Feature | NeuralNest | ChatGPT / Notion AI |
 |---|---|---|
 | Answers from YOUR notes | ✅ | ❌ |
 | Remembers across sessions | ✅ | ❌ |
